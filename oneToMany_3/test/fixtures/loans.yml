@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  due_date: MyString
+  renewed: false
+  book_id: 1
+  patron_id: 1
+
+two:
+  due_date: MyString
+  renewed: false
+  book_id: 1
+  patron_id: 1
