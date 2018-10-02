@@ -1,3 +1,3 @@
 class Person < ApplicationRecord
-  belongs_to :Residence
+  belongs_to :residence
 end

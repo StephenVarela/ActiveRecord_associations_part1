@@ -1,4 +1,4 @@
 class Province < ApplicationRecord
-  belongs_to :Country
-  has_many :Cities
+  belongs_to :country
+  has_many :cities
 end

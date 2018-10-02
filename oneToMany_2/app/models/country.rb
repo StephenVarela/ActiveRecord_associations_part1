@@ -1,3 +1,3 @@
 class Country < ApplicationRecord
-  has_many :Provinces
+  has_many :provinces
 end

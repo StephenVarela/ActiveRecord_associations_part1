@@ -1,4 +1,4 @@
 class City < ApplicationRecord
-  belongs_to :Province
-  has_many :Residences
+  belongs_to :province
+  has_many :residences
 end

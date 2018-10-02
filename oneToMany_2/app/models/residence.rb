@@ -1,4 +1,4 @@
 class Residence < ApplicationRecord
-  belongs_to :City
-  has_many :People
+  belongs_to :city
+  has_many :people
 end
